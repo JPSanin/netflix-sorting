@@ -1,0 +1,8 @@
+Name | Release Year | Rating | Type 
+The Irishman | 2019 | 84%  | MOVIE
+Breaking Bad | 2008 | 96%  | SERIE
+Stranger Things | 2016 | 96%  | SERIE
+Dark | 2017 | 96%  | SERIE
+Ozark | 2017 | 93%  | SERIE
+Star Trek | 2017 | 88%  | SERIE
+Mindhunter | 2017 | 95%  | SERIE
